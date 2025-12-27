@@ -1,7 +1,7 @@
 ---
 name: task
 about: 標準的な実作業全般やToDo
-title: "[task] "
+title: ''
 labels: ''
 assignees: ''
 
