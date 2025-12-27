@@ -1,6 +1,6 @@
 ---
 name: task
-about: Describe this issue template's purpose here.
+about: 標準的な実作業全般やToDo
 title: "[task] "
 labels: ''
 assignees: ''
@@ -17,7 +17,7 @@ assignees: ''
 ---
 
 ## Done定義
-- [ ] 
+- 
 
 ## 備考
 
