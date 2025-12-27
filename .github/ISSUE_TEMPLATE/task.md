@@ -16,12 +16,12 @@ assignees: kentoo8
 
 ## 仕様
 - 未確定
-  - aaa
+  - a
 - 確定
-  - aaa
+  - a
 
 ## Done定義
-- [ ] 
+- [ ] TBW
 
 <!--
 ## やらないこと
